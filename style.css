@@ -1,0 +1,48 @@
+
+h1 {
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+}
+
+body {
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+
+.article {
+	
+	border: lightblue solid 1px;
+	padding: 3px 16px;
+	width: 30%;
+	list-style-type: none;
+	margin: auto;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+}
+
+.availablity {
+	background-color: gray;
+	margin: 0;
+}
+
+h2 {
+	border: lightgray dotted 1px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+li {
+	text-align: left;
+}
+
+img.middle {
+	display: block;
+	margin: 0 auto 0 auto;
+}
